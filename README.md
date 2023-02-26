@@ -3,7 +3,7 @@
 ## Description
 Library to retrieve the list of hotels from one or more data sources and calculate the shortest distance or lowest price given a coordinate.
 
-## A litle context
+## A little context
 John decided to spend the weekend away with his family, and to do that he needs to find a hotel nearby the chosen location. For John there are 2 important factors for the right hotel choice - location and price, therefore he needs to search places surrounding a specific location, identified by Latitude and Longitude and get the list of results ordered by proximity to the place or by price per night.
 
 ## Instructions
