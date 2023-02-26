@@ -1,0 +1,16 @@
+{
+    "name": "mathe/xlr8rms",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Source\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Matheus Assunção",
+            "email": "matheus.tba@hotmail.com"
+        }
+    ],
+    "require": {}
+}
